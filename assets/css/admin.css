@@ -1,4 +1,4 @@
-.stats-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 14px; margin-bottom: 44px; }
+.stats-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 100fr)); gap: 14px; margin-bottom: 44px; }
 .stat-card { display: flex; flex-direction: column; gap: 10px; padding: 20px; border: 1px solid var(--line); border-radius: 13px; background: #fff; }
 .stat-card span { color: var(--muted); font-size: .83rem; font-weight: 650; }
 .stat-card strong { color: var(--teal-dark); font-size: 2rem; line-height: 1; }
